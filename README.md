@@ -1,7 +1,7 @@
 # Responsive website Acadia
 ### Technologies used
 
-* html
+* HTML
 * CSS
 
 
