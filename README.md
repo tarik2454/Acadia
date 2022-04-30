@@ -1,6 +1,6 @@
 # Responsive website Acadia
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [https://tarik2454.github.io/responsive-website-Acadia/](https://tarik2454.github.io/responsive-website-Acadia/)
 
 ## Technologies used:
 
