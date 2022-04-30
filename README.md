@@ -1,14 +1,17 @@
 # Responsive website Acadia
-### Technologies used:
+
+Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
+## Technologies used:
 
 * HTML
 * CSS
 
-## Contact
+## Contact:
 
-Your Name - [@your_twitter](https://twitter.com/your_username) - email@example.com
+Taras - tarik2454@gmail.com
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+
 
 
 
