@@ -65,6 +65,7 @@ body {
 
 .header-social-icon:hover {
     color: #000;
+    cursor: pointer;
 }
 
 /* Styles for banner */
